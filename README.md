@@ -1,6 +1,17 @@
 # morph-drawable-to-xX
 
-Converts following structure:
+
+##HowTO
+
+  1. npm i
+  2. put drawable-XXXXX folders to /source directory
+  3. npm start
+  4. get result from /result directory
+
+
+##What is this
+
+This is script that converts following structure:
 ```
   /
     drawable-mdpi

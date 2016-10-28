@@ -7,11 +7,11 @@ const PATH = {
 };
 
 const SIZEMAPPING = {
-	mdpi: '1x',
-	hdpi: '1.5x',
-	xhdpi: '2x',
-	xxhdpi: '3x',
-	xxxhdpi: '4x'
+	mdpi: 'x1',
+	hdpi: 'x1.5',
+	xhdpi: 'x2',
+	xxhdpi: 'x3',
+	xxxhdpi: 'x4'
 }
 
 function iterateInnerFolders(dirPath, todo) {
